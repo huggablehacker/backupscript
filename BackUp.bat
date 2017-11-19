@@ -9,7 +9,7 @@ echo                  ∫               Nov 2017                ∫
 echo                  ∫                                       ∫
 echo                  »ÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕÕº
 echo.
-echo Tested on XP, Vista, Windows 7
+echo Tested on XP, Vista, Windows 7, Windows 8, Windows 10
 echo.
 echo.
 
