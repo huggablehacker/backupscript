@@ -1,4 +1,4 @@
-# backupscript
+# Super Awsome BackUp Script
 Batch file backup script, Tested on XP, Vista, Windows 7, Windows 8, Windows 10
  
 Written to back up files to a USB drive.
