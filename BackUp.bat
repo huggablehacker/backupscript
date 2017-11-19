@@ -29,12 +29,12 @@ mkdir %drive%\%username%\Pictures
 mkdir %drive%\%username%\Music
 mkdir %drive%\%username%\Videos
 
-xcopy "c:\Users\%username%\Favorites\*" %drive%\%username%\Favorites /D /E /C /R /H /I /K /Y
-xcopy "c:\Users\%username%\Desktop\*" %drive%\%username%\Desktop /D /E /C /R /H /I /K /Y
+xcopy "c:\Users\%username%\Favorites\*.*" %drive%\%username%\Favorites /D /E /C /R /H /I /K /Y
+xcopy "c:\Users\%username%\Desktop\*.*" %drive%\%username%\Desktop /D /E /C /R /H /I /K /Y
 xcopy "c:\Users\%username%\Documents\*.*" %drive%\%username%\Documents /D /E /C /R /H /I /K /Y
-xcopy "c:\Users\%username%\Pictures\*" %drive%\%username%\Pictures /D /E /C /R /H /I /K /Y 
-xcopy "c:\Users\%username%\Music\*" %drive%\%username%\Music /D /E /C /R /H /I /K /Y
-xcopy "c:\Users\%username%\Videos\*" %drive%\%username%\Videos /D /E /C /R /H /I /K /Y
+xcopy "c:\Users\%username%\Pictures\*.*" %drive%\%username%\Pictures /D /E /C /R /H /I /K /Y 
+xcopy "c:\Users\%username%\Music\*.*" %drive%\%username%\Music /D /E /C /R /H /I /K /Y
+xcopy "c:\Users\%username%\Videos\*.*" %drive%\%username%\Videos /D /E /C /R /H /I /K /Y
 CLS
 
 echo Back-Up Completed! 
